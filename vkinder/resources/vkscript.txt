@@ -1,0 +1,23 @@
+var ids = %s;
+var count = %d;
+var index = 0;
+var all_groups = [];
+var all_photos = [];
+var groups = null;
+var photos = null;
+var next = 0;
+
+
+while (count > 0) {
+
+    next = ids[index];
+    groups = API.groups.get({"user_id": next, "count": 1000}).items;
+    photos = API.photos.get({'owner_id': next, 'album_id': -6, 'rev': 1, 'extended': 1}).items;
+    all_photos.push(photos);
+    all_groups.push(groups);
+    count = count - 1;
+    index = index + 1;
+};
+
+
+return [all_groups, all_photos];

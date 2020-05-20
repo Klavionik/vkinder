@@ -1,0 +1,32 @@
+[
+  {
+    "id": 210700286,
+    "first_name": "Lindsey",
+    "last_name": "Stirling",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 1,
+    "bdate": "21.9.1986",
+    "city": {
+      "id": 5331,
+      "title": "Los Angeles"
+    },
+    "common_count": 0,
+    "personal": {
+      "political": 3,
+      "religion": "Mormon",
+      "inspired_by": "My Parents",
+      "people_main": 6,
+      "life_main": 5,
+      "smoking": 1,
+      "alcohol": 1,
+      "religion_id": 0
+    },
+    "interests": "Family, Friends, Dancing, Music",
+    "music": "David Garrett, Bond, Barrage, Michael Jackson, electronic, etc. I like songs from all types and genres of uplifting music except 'country western' and 'heavy metal.' Sheet Music/mp3 http://lindseystirling.mybigcommerce.com/ Physical Album/Merchandise http://www.shopbenchmark.com/lindseystirling",
+    "movies": "Anne of Green Gables, That's Dancing, Freedom Writers My 'Movies:' http://www.youtube.com/user/lindseystomp http://www.youtube.com/user/lindseytime",
+    "tv": "The Ellen Degeneres Show",
+    "books": "Harry Potter series, The Book of Mormon",
+    "games": "Village Idiot, Hearts, Who What When Where Why How (I love board games/card games)"
+  }
+]

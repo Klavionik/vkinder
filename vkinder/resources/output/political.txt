@@ -1,0 +1,11 @@
+Political views?
+
+1 – Communist
+2 – Socialist
+3 – Moderate
+4 – Liberal
+5 – Conservative
+6 – Monarchist
+7 – Ultraconservative
+8 – Apathetic
+9 – Libertarian

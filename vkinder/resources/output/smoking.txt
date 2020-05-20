@@ -1,0 +1,7 @@
+﻿What are their views on smoking? 
+
+1 – very negative
+2 – negative
+3 – neutral
+4 – compromisable
+5 – positive
